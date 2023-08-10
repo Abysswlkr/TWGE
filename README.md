@@ -4,7 +4,7 @@ The Witcher Games Encyclopedia (TWGE) is a personal project developed using Angu
 
 ## Features
 
-- **Game Information:**
+- **Game Information**
 
 - **Character Profiles**
 
