@@ -4,13 +4,11 @@ The Witcher Games Encyclopedia (TWGE) is a personal project developed using Angu
 
 ## Features
 
-- **Game Information:** TWGE offers comprehensive information about The Witcher game series, including details about each game's storyline, gameplay mechanics, and more.
+- **Game Information:**
 
-- **Character Profiles:** Dive into the world of The Witcher by exploring character profiles. Learn about their backgrounds, roles in the story, and relationships with other characters.
+- **Character Profiles**
 
-- **Lore and Worldbuilding:** Discover the rich lore of The Witcher universe, from the various factions and cultures to the creatures that inhabit the world.
-
-- **Native CSS Styling:** The project employs native CSS for styling, ensuring a lightweight and efficient design while honing CSS skills.
+- **Lore** 
 
 ## Getting Started
 
@@ -24,11 +22,9 @@ git clone [https://github.com/your-username/TWGE.git](https://github.com/your-us
 
 cd TWGE
 
- 3. **Install Dependencies:** Install the project's dependencies using npm (Node Package Manager):
+ 3. **Install Dependencies:** Install the project's dependencies using npm:
 
 npm install
-
-markdown
 
  4. **Run the Project:** Launch the project using Angular CLI:
 
@@ -40,22 +36,13 @@ ng serve
 
 The TWGE project is a continuous work in progress. Here are some potential improvements and enhancements planned for the future:
 
-- **Responsive Design:** Make the application responsive to ensure a seamless experience across various devices and screen sizes.
+- **Responsive Design**
 
-- **Advanced Styling:** Consider enhancing the project's styling by exploring advanced CSS techniques and frameworks.
+- **Search Functionality**
 
-- **Integration of APIs:** Integrate external APIs to fetch real-time data and enrich the encyclopedia's content.
-
-- **User Interaction:** Implement user interactions, such as comments, likes, and user-generated content.
-
-- **Search Functionality:** Develop a robust search feature to help users quickly find information within the encyclopedia.
-
-- **Integration of Backend:** Transition from a local project to a full-stack application by incorporating a backend to manage data storage and retrieval.
+- **Integration of Backend**
 
 ## Contributions
 
-Contributions to the TWGE project are currently not being accepted as it's a personal project. However, feel free to fork the repository and create your own version!
+It's a personal project. However, feel free to fork the repository and create your own version, i hope to learn from you all!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
